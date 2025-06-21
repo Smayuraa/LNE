@@ -4,36 +4,6 @@
 
 Welcome to **Last Night Engineering (LNE)** — a freelancing mini-agency started by passionate final-year engineering students. We offer **Website Development**, **Training Resources**, and **Technical Support** to students, businesses, and startups.
 
----
-
-## 🖼️ Website Screenshots
-
-### 🏠 Home Page
-![Home Page](./assets/homeImg.gif)
-
-### 👥 About Us
-![About Us](./assets/aboutusImg.png)
-
-### 🧾 About Us (Alt View)
-![About Us Alternate](./assets/aboutusImg1.png)
-
-### 🎯 Our Mission
-![Mission](./assets/mission.png)
-
-### 📚 Training / Notes Section
-![Training](./assets/contact.png)
-
-### 🔐 Login Page
-![Login](./assets/loginIn.png)
-
-### 📝 Register Page
-![Register](./assets/registerImg.png)
-
-### 🔄 Forgot Password
-![Forgot Password](./assets/forgotpassImg.png)
-
----
-
 ## 🛠️ What We Offer
 
 - 🌐 **Website Development**  
@@ -53,6 +23,7 @@ We’re a friendly group of techies from engineering backgrounds who started thi
 
 - **Mayuri Sharma** – Full Stack Developer  
 - **Rudraraj Kudale** – Full Stack Developer
+- **Other Members Etc.**
 
 
 ---
